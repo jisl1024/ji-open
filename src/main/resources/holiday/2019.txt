@@ -1,0 +1,40 @@
+[
+  { "date": "2018-12-30", "holiday": true },
+  { "date": "2018-12-31", "holiday": true },
+  { "date": "2019-01-01", "holiday": true },
+  { "date": "2018-12-29", "holiday": false },
+
+  { "date": "2019-02-04", "holiday": true },
+  { "date": "2019-02-05", "holiday": true },
+  { "date": "2019-02-06", "holiday": true },
+  { "date": "2019-02-07", "holiday": true },
+  { "date": "2019-02-08", "holiday": true },
+  { "date": "2019-02-09", "holiday": true },
+  { "date": "2019-02-10", "holiday": true },
+  { "date": "2019-02-02", "holiday": false },
+  { "date": "2019-02-03", "holiday": false },
+
+  { "date": "2019-04-05", "holiday": true },
+  { "date": "2019-04-06", "holiday": true },
+  { "date": "2019-04-07", "holiday": true },
+
+  { "date": "2019-05-01", "holiday": true },
+
+  { "date": "2019-06-07", "holiday": true },
+  { "date": "2019-06-08", "holiday": true },
+  { "date": "2019-06-09", "holiday": true },
+
+  { "date": "2019-09-13", "holiday": true },
+  { "date": "2019-09-14", "holiday": true },
+  { "date": "2019-09-15", "holiday": true },
+
+  { "date": "2019-10-01", "holiday": true },
+  { "date": "2019-10-02", "holiday": true },
+  { "date": "2019-10-03", "holiday": true },
+  { "date": "2019-10-04", "holiday": true },
+  { "date": "2019-10-05", "holiday": true },
+  { "date": "2019-10-06", "holiday": true },
+  { "date": "2019-10-07", "holiday": true },
+  { "date": "2019-09-29", "holiday": false },
+  { "date": "2019-10-12", "holiday": false }
+]

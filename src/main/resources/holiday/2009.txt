@@ -1,0 +1,43 @@
+[
+  { "date": "2009-01-01", "holiday": true },
+  { "date": "2009-01-02", "holiday": true },
+  { "date": "2009-01-03", "holiday": true },
+  { "date": "2009-01-04", "holiday": false },
+
+  { "date": "2009-01-25", "holiday": true },
+  { "date": "2009-01-26", "holiday": true },
+  { "date": "2009-01-27", "holiday": true },
+  { "date": "2009-01-28", "holiday": true },
+  { "date": "2009-01-29", "holiday": true },
+  { "date": "2009-01-30", "holiday": true },
+  { "date": "2009-01-31", "holiday": true },
+  { "date": "2009-01-24", "holiday": false },
+  { "date": "2009-02-01", "holiday": false },
+
+  { "date": "2009-04-04", "holiday": true },
+  { "date": "2009-04-05", "holiday": true },
+  { "date": "2009-04-06", "holiday": true },
+  { "date": "2009-04-06", "holiday": false },
+
+  { "date": "2009-05-01", "holiday": true },
+  { "date": "2009-05-02", "holiday": true },
+  { "date": "2009-05-03", "holiday": true },
+
+  { "date": "2009-05-28", "holiday": true },
+  { "date": "2009-05-29", "holiday": true },
+  { "date": "2009-05-30", "holiday": true },
+  { "date": "2009-05-31", "holiday": false },
+
+  { "date": "2009-10-01", "holiday": true },
+  { "date": "2009-10-02", "holiday": true },
+  { "date": "2009-10-03", "holiday": true },
+  { "date": "2009-10-04", "holiday": true },
+  { "date": "2009-10-05", "holiday": true },
+  { "date": "2009-10-06", "holiday": true },
+  { "date": "2009-10-07", "holiday": true },
+  { "date": "2009-10-08", "holiday": true },
+  { "date": "2009-09-27", "holiday": false },
+  { "date": "2009-10-10", "holiday": false },
+  { "date": "2009-10-07", "holiday": false },
+  { "date": "2009-10-08", "holiday": false }
+]

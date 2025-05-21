@@ -1,0 +1,46 @@
+[
+  { "date": "2022-01-01", "holiday": true },
+  { "date": "2022-01-02", "holiday": true },
+  { "date": "2022-01-03", "holiday": true },
+
+  { "date": "2022-01-31", "holiday": true },
+  { "date": "2022-02-01", "holiday": true },
+  { "date": "2022-02-02", "holiday": true },
+  { "date": "2022-02-03", "holiday": true },
+  { "date": "2022-02-04", "holiday": true },
+  { "date": "2022-02-05", "holiday": true },
+  { "date": "2022-02-06", "holiday": true },
+  { "date": "2022-01-29", "holiday": false },
+  { "date": "2022-01-30", "holiday": false },
+
+  { "date": "2022-04-03", "holiday": true },
+  { "date": "2022-04-04", "holiday": true },
+  { "date": "2022-04-05", "holiday": true },
+  { "date": "2022-04-02", "holiday": false },
+
+  { "date": "2022-04-30", "holiday": true },
+  { "date": "2022-05-01", "holiday": true },
+  { "date": "2022-05-02", "holiday": true },
+  { "date": "2022-05-03", "holiday": true },
+  { "date": "2022-05-04", "holiday": true },
+  { "date": "2022-04-24", "holiday": false },
+  { "date": "2022-05-07", "holiday": false },
+
+  { "date": "2022-06-03", "holiday": true },
+  { "date": "2022-06-04", "holiday": true },
+  { "date": "2022-06-05", "holiday": true },
+
+  { "date": "2022-09-10", "holiday": true },
+  { "date": "2022-09-11", "holiday": true },
+  { "date": "2022-09-12", "holiday": true },
+
+  { "date": "2022-10-01", "holiday": true },
+  { "date": "2022-10-02", "holiday": true },
+  { "date": "2022-10-03", "holiday": true },
+  { "date": "2022-10-04", "holiday": true },
+  { "date": "2022-10-05", "holiday": true },
+  { "date": "2022-10-06", "holiday": true },
+  { "date": "2022-10-07", "holiday": true },
+  { "date": "2022-10-08", "holiday": false },
+  { "date": "2022-10-09", "holiday": false }
+]
