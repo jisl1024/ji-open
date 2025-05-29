@@ -16,6 +16,7 @@ class HolidayUtilTest {
 
     @Test
     void testHolidayStatus() {
+//        同步测试
         ZonedDateTime now = ZonedDateTime.now(ZoneId.of("Asia/Shanghai"));
         final int monthValue = now.getMonthValue();
 //        如果当前时间是12月份了，那么请求后面一年的数据。（提前创建放假文件信息）
