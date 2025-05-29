@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - master  # 看你主分支名称
-
+  workflow_dispatch:  # 添加手动触发支持
+  
 jobs:
   sync:
     runs-on: ubuntu-latest
