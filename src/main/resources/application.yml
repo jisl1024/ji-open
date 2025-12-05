@@ -1,0 +1,5 @@
+# application.yml
+spring:
+  ai:
+    dashscope:
+        api-key: sk-afcdca8c813b426caa6bc669c53ce95d
